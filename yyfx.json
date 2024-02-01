@@ -26,8 +26,6 @@
       "name": "Youtube",
       "type": 3,
       "api": "https://qu.ax/Mud.js",
-      /*"searchable": 1,
-      "changeable": 1,*/
       "ext": "https://qu.ax/USvO.txt"
     },
     {
